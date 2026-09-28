@@ -390,7 +390,7 @@ Possible future improvements identified for the project include:
 
 **MealGo — Smart Restaurant Ordering And Delivery System**
 
-**Alexandria National university (ANU)**
+**Alexandria National University (ANU)**
 College of Computer and Data Science
 Cybersecurity Program
 Academic Year: **2026**
