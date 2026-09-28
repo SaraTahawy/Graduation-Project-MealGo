@@ -390,20 +390,9 @@ Possible future improvements identified for the project include:
 
 **MealGo — Smart Restaurant Ordering And Delivery System**
 
-**Arab Academy for Science, Technology & Maritime Transport (AASTMT)**
+**Alexandria National university (ANU)**
 College of Computer and Data Science
 Cybersecurity Program
-Academic Year: **2025–2026**
+Academic Year: **2026**
 
----
-
-## 👩‍💻 Project Team
-
-*Add team members here.*
-
----
-
-## 📄 License
-
-This project was developed as an academic graduation project.
 
