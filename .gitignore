@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+
+# Local certificates / HTTPS
+certs/
+*.pem
+*.key
+*.pfx
+
+# Documentation / local project notes
+docs/
+note to blockchain*
+
+# Build files
+dist/
+build/
+
+# Vite
+.vite/
+
+# Hardhat generated files
+artifacts/
+cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database dumps / local backups
+*.dump
+*.backup
+*.bak
+
+# Local project files
+start
