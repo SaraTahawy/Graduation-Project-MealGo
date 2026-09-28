@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/c695033e-57eb-4663-846f-75ab2ae348f0
 
 ### 🍽️ Restaurant & 🚗 Driver
 
-https://github.com/user-attachments/assets/afd030fb-d3cd-4b98-a99a-6ba67e313728
+https://github.com/user-attachments/assets/f827701f-4bab-4a0a-b45a-d40e89afed21
 
 ### 🛠️ Admin & NFT Coupon
 
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/8eae6b9c-a8ae-488c-a59b-a4bed85d2ffe
 
 ### 🤖 ChatBot
 
-https://github.com/user-attachments/assets/f827701f-4bab-4a0a-b45a-d40e89afed21
+https://github.com/user-attachments/assets/afd030fb-d3cd-4b98-a99a-6ba67e313728
 
 ---
 
