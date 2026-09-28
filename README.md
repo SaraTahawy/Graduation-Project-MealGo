@@ -19,15 +19,15 @@ https://github.com/user-attachments/assets/c695033e-57eb-4663-846f-75ab2ae348f0
 
 ### 🍽️ Restaurant & 🚗 Driver
 
-[▶️ Watch Demo](./videos/compress-part2%20rest%26driver.mp4)
+https://github.com/user-attachments/assets/afd030fb-d3cd-4b98-a99a-6ba67e313728
 
 ### 🛠️ Admin & NFT Coupon
 
-[▶️ Watch Demo](./videos/compress-Admin%26Make%20Coupon.mp4)
+https://github.com/user-attachments/assets/8eae6b9c-a8ae-488c-a59b-a4bed85d2ffe
 
 ### 🤖 ChatBot
 
-[▶️ Watch Demo](./videos/compress-ChatBot.mp4)
+https://github.com/user-attachments/assets/f827701f-4bab-4a0a-b45a-d40e89afed21
 
 ---
 
