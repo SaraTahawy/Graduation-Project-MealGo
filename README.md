@@ -12,7 +12,10 @@ Here are short demonstrations of the main MealGo workflows and features.
 
 ### 🛒 Customer — Make Order
 
-<video src="https://github.com/SaraTahawy/Graduation-Project-MealGo/raw/refs/heads/main/videos/compress-Admin&Make%20Coupon.mp4" controls width="800"></video>
+
+https://github.com/user-attachments/assets/c695033e-57eb-4663-846f-75ab2ae348f0
+
+
 
 ### 🍽️ Restaurant & 🚗 Driver
 
