@@ -12,24 +12,19 @@ Here are short demonstrations of the main MealGo workflows and features.
 
 ### 🛒 Customer — Make Order
 
-[▶️ Watch Demo]
-<video src="./videos/compress-Make order.mp4" controls></video>
+[▶️ Watch Demo](./videos/compress-Make%20order.mp4)
 
 ### 🍽️ Restaurant & 🚗 Driver
 
-[▶️ Watch Demo]
-<video src="./videos/compress-part2 rest&driver.mp4" controls></video>
+[▶️ Watch Demo](./videos/compress-part2%20rest%26driver.mp4)
 
 ### 🛠️ Admin & NFT Coupon
 
-[▶️ Watch Demo]
-<video src="./videos/compress-Admin&Make Coupon.mp4" controls></video>
+[▶️ Watch Demo](./videos/compress-Admin%26Make%20Coupon.mp4)
 
 ### 🤖 ChatBot
 
-[▶️ Watch Demo]
-<video src="./videos/compress-ChatBot.mp4" controls></video>
-
+[▶️ Watch Demo](./videos/compress-ChatBot.mp4)
 
 ---
 
